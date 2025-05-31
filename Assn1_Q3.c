@@ -23,7 +23,10 @@
  }
  
  // Question 3 b.
- // Put your answer to Question 3 b) here as a comment
+ // The target machine is little-endian. For example, when show_bytes is called with an integer 0x12345678,
+ // output shows the least significant byte (0x78) at the lowest memory address (like, 0x7ffe5fb887cc),
+ // followed by 0x56, 0x34, and 0x12 at increasing address. In a big-endian system, 
+ // the most significant byte (0x12) would appear at the lowest address, which we didnt see here.
  
  
  // Question 3 c.
