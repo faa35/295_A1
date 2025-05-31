@@ -1,7 +1,7 @@
 /* 
  * Filename: Assn1_Q3.c
  *
- * Description: CMPT-201 Assignment 1, Question 3
+ * Description: CMPT-295 Assignment 1, Question 3
  *
  * Authors: Our textbook + AL + Fardin Abdulla
  * Student number: 301540223
